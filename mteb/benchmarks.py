@@ -198,6 +198,7 @@ MTEB_RETRIEVAL_LAW = Benchmark(
         "LeCaRDv2",
         "LegalQuAD",
         "GerDaLIRSmall",
+        "LegalSALContractsQA",
     ],
     description="Legal benchmarks from MTEB",
     reference="https://aclanthology.org/2023.eacl-main.148/",

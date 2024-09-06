@@ -50,6 +50,7 @@ from .eng.FiQA2018Retrieval import *
 from .eng.HagridRetrieval import *
 from .eng.HellaSwagRetrieval import *
 from .eng.HotpotQARetrieval import *
+from .eng.LegalSALContractsQARetrieval import *
 from .eng.LegalBenchConsumerContractsQARetrieval import *
 from .eng.LegalBenchCorporateLobbyingRetrieval import *
 from .eng.LegalSummarizationRetrieval import *
